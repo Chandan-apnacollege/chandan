@@ -1,4 +1,4 @@
 # chandan
 This is my first repository
-<h1> chandan kumar     </h1>
+<h6> chandan kumar     </h6>
 Author chandan chanchlani
